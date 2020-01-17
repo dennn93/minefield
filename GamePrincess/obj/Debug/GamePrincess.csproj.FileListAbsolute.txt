@@ -1,7 +1,0 @@
-d:\Work\Занятия\C#\Persons\Марк\Задачи Марка\GamePrincess\GamePrincess\bin\Debug\GamePrincess.exe.config
-d:\Work\Занятия\C#\Persons\Марк\Задачи Марка\GamePrincess\GamePrincess\bin\Debug\GamePrincess.exe
-d:\Work\Занятия\C#\Persons\Марк\Задачи Марка\GamePrincess\GamePrincess\bin\Debug\GamePrincess.pdb
-d:\Work\Занятия\C#\Persons\Марк\Задачи Марка\GamePrincess\GamePrincess\obj\Debug\GamePrincess.csprojAssemblyReference.cache
-d:\Work\Занятия\C#\Persons\Марк\Задачи Марка\GamePrincess\GamePrincess\obj\Debug\GamePrincess.csproj.CoreCompileInputs.cache
-d:\Work\Занятия\C#\Persons\Марк\Задачи Марка\GamePrincess\GamePrincess\obj\Debug\GamePrincess.exe
-d:\Work\Занятия\C#\Persons\Марк\Задачи Марка\GamePrincess\GamePrincess\obj\Debug\GamePrincess.pdb
